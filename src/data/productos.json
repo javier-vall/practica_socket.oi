@@ -1,0 +1,27 @@
+[
+  {
+    "description": "Reloj",
+    "price": "100",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/picons-basic-2/57/basic2-028_clock_watch_timer-128.png",
+    "id": 1
+  },
+  {
+    "description": "Iphone 11",
+    "price": "1000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/smoothfill-device/30/device_001-smartphone-phone-mobile-cellphone-tel-iphone-128.png",
+    "id": 2
+  },
+  {
+    "description": "Headphone",
+    "price": "230",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/media-and-technology-1-1/85/headphones_headphone_music-128.png",
+    "id": 3
+  },
+  {
+    "description": "Reloj",
+    "price": "500",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/picons-basic-2/57/basic2-028_clock_watch_timer-128.png",
+    "id": 4
+  }
+
+]
